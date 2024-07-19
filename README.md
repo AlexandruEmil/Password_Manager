@@ -1,6 +1,6 @@
 # Password_Manager
 
-This is a Python-based password manager that uses Tkinter for the GUI and SQLite for storing passwords securely. The passwords are encrypted using Fernet encryption with a master password.
+This is a Python-based password manager that uses Tkinter for the GUI and SQLite for storing passwords securely. The passwords are encrypted using Fernet encryption with a master password. As a team we used Jira.
 
 ![Diagram_Password](https://github.com/user-attachments/assets/08da2b47-a65f-4107-ac64-649513b24da2)
 
